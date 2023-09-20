@@ -1,4 +1,4 @@
-# Data-Driven Insights and Solutions for State Stakeholders: Vehicle Sales, Stamp Duty Revenue, and TS-iPASS Analysis of Telangana State
+# Data-Driven Insights and Solutions for State Stakeholders:  Stamp Duty Revenue, Vehicle Sales and TS-iPASS Analysis of Telangana State
 
 ## Project Overview
 In the analysis of Telangana's economic landscape, three critical datasets were examined: **stamp duty revenue, vehicle sales, and TS-iPASS** data. Each of these datasets provides valuable insights into different aspects of the state's economy and development.Policymakers, investors, and researchers can leverage the insights from this analysis to make informed decisions, plan economic strategies, and promote sustainable development in the state.
