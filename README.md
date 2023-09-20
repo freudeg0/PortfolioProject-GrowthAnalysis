@@ -6,7 +6,7 @@ In the analysis of Telangana's economic landscape, three critical datasets were 
 ## Tools
 -Tableau: Visualizations,Calculated fields,Conditional Formatting
 
--Excel: Stamp Revenue Forecast
+-Excel: Stamp Revenue Forecast,PivotTables
 
 ## Insights
 ### 1.The adoption of E-Stamps challans experienced a notable surge in 2020, but has since plateaued in 2021, likely due to market saturation and user resistance stemming from technological unfamiliarity and inconvenience.
